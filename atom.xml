@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://devilGX.github.io/"/>
-  <updated>2019-10-12T13:44:19.413Z</updated>
+  <updated>2019-10-13T12:23:38.678Z</updated>
   <id>https://devilGX.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://devilGX.github.io/2019/10/13/test/"/>
+    <id>https://devilGX.github.io/2019/10/13/test/</id>
+    <published>2019-10-13T08:57:46.000Z</published>
+    <updated>2019-10-13T12:23:38.678Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;guoxiao&lt;br&gt;guoxiao&lt;br&gt;guoxiao&lt;br&gt;guoxiao   guoxiao&lt;br&gt;gs&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;姓名&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;年龄&lt;/th&gt;
+&lt;th align=&quot;right
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>guoxiao</title>
